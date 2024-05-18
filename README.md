@@ -80,3 +80,21 @@
 [NBA-Legends-App](https://nba-legends-app-rc003.netlify.app/) | React.js, CRUD Operation | [Repo Link](https://github.com/clarusway/clarusway-fs-tr-16-frontend-m2/tree/main/react/projects/003-NBA-Legends-App)
 [Image-Gallery-App](https://image-gallery-rc001.netlify.app/) | Next.js, Redux/Toolkit, Axios, Firebase, Rest API, Tailwind CSS | [Repo Link](https://github.com/clarusway/clarusway-fs-tr-16-frontend-m2/tree/main/react/projects/001-Image-Gallery-App)
 [Product-List](https://product-list-rc002.netlify.app/) | React.js, React-Router-dom, FİREBASE, Context-Api, Material UI, AXİOS, Pagination  |   [Repo Link](https://github.com/clarusway/clarusway-fs-tr-16-frontend-m2/tree/main/react/projects/002-Product-List)
+
+<br>
+<h2 align="center">:bulb:Most Used Language</h2>
+<div  align="center">
+<br/>
+<img
+     src="https://github-readme-stats.vercel.app/api?username=ssimsir&theme=blue-green"
+     alt=""
+     /> </br></br></br>
+<img
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssimsir&theme=blue-green"
+     alt=""
+     /> <br/>
+</div>
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=ssimsir&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+</p>
+
