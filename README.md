@@ -71,7 +71,7 @@
 <a href="#" target="_blank"> <img src="https://www.svgrepo.com/show/349375/github.svg" alt="gitHub" height="40"/></a> -->
 
 
-
+<!--
 ## ✨ My Projects ✨
 
 | Project Name / Live Link          | Libraries and Technologies      | Project Repo Link                    |
@@ -80,7 +80,7 @@
 [NBA-Legends-App](https://nba-legends-app-rc003.netlify.app/) | React.js, CRUD Operation | [Repo Link](https://github.com/clarusway/clarusway-fs-tr-16-frontend-m2/tree/main/react/projects/003-NBA-Legends-App)
 [Image-Gallery-App](https://image-gallery-rc001.netlify.app/) | Next.js, Redux/Toolkit, Axios, Firebase, Rest API, Tailwind CSS | [Repo Link](https://github.com/clarusway/clarusway-fs-tr-16-frontend-m2/tree/main/react/projects/001-Image-Gallery-App)
 [Product-List](https://product-list-rc002.netlify.app/) | React.js, React-Router-dom, FİREBASE, Context-Api, Material UI, AXİOS, Pagination  |   [Repo Link](https://github.com/clarusway/clarusway-fs-tr-16-frontend-m2/tree/main/react/projects/002-Product-List)
-
+-->
 <br>
 <h2 align="center">:bulb:Most Used Language</h2>
 <div  align="center">
