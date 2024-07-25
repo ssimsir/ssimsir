@@ -76,7 +76,7 @@
 
 | Project Name / Live Link          | Libraries and Technologies      | Project Repo Link                    |
 |-----------------------------|--------------------------------------|---------------------------|
-[Todo-App](https://appointment-app-rc004.netlify.app/) | React.js, CRUD Operation | [Repo Link](https://github.com/ssimsir/FS1-TodoApp)
+[Todo-App](https://fs1-todo-app.vercel.app/) | React.js, Bootstrap, Node.js, Express.js, mongo db CRUD Operation | [Repo Link](https://github.com/ssimsir/FS1-TodoApp)
 <!--
 [NBA-Legends-App](https://nba-legends-app-rc003.netlify.app/) | React.js, CRUD Operation | [Repo Link](https://github.com/clarusway/clarusway-fs-tr-16-frontend-m2/tree/main/react/projects/003-NBA-Legends-App)
 [Image-Gallery-App](https://image-gallery-rc001.netlify.app/) | Next.js, Redux/Toolkit, Axios, Firebase, Rest API, Tailwind CSS | [Repo Link](https://github.com/clarusway/clarusway-fs-tr-16-frontend-m2/tree/main/react/projects/001-Image-Gallery-App)
